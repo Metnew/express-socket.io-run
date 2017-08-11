@@ -1,4 +1,6 @@
 # express-socket.io-run
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Metnew/express-socket.io-run.svg)](https://greenkeeper.io/)
 The simplest setup, pure Express + pure Socket.io.
 
 ## Why?
