@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.7.0
+version: v1.7.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -12,3 +12,8 @@ patch:
         patched: '2017-05-24T07:14:04.321Z'
     - socket.io > socket.io-client > debug > ms:
         patched: '2017-05-24T07:14:04.321Z'
+  'npm:debug:20170905':
+    - helmet > connect > debug:
+        patched: '2017-09-27T07:14:05.131Z'
+    - helmet > connect > finalhandler > debug:
+        patched: '2017-09-27T07:14:05.131Z'
