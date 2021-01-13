@@ -11,7 +11,7 @@
     "helmet": "^3.5.0",
     "morgan": "^1.8.1",
     "scrypt": "^6.0.3",
-    "socket.io": "^2.0.0",
+    "socket.io": "^3.0.0",
     "snyk": "^1.41.1"
   },
   "devDependencies": {
